@@ -1,0 +1,11 @@
+git init
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/ashikur-rahman-jim/my-first-project.git
+git push -u origin main
+
+# পরেরবার থেকে 
+git add .
+git commit -m "Your messege"
+git push
